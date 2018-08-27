@@ -1,5 +1,5 @@
 # CheckDuplicateRes
-A gradle checking the duplicate resources of all local modules.
+A gradle plugin checking the duplicate resources of all local modules.
 
 ### output is just like:
 
