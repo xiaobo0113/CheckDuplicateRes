@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-apply plugin:'CheckDuplicatePlugin'
+apply plugin: 'CheckDuplicatePlugin'
 
 android {
     compileSdkVersion 27

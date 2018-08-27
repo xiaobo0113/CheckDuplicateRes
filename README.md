@@ -1,6 +1,8 @@
 # CheckDuplicateRes
 A gradle plugin checking the duplicate resources of all local modules.
 
+Add `apply plugin: 'CheckDuplicatePlugin'` to your app module.
+
 ### output is just like:
 
     CheckDuplicatePlugin: ==================================================>>>
